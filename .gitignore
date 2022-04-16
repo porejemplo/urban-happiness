@@ -50,9 +50,7 @@ captures/
 .idea/copyright/profiles_settings.xml
 .idea/encodings.xml
 .idea/misc.xml
-.idea/modules.xml
 .idea/scopes/scope_settings.xml
-.idea/vcs.xml
 # Android Studio 3 in .gitignore file.
 .idea/caches
 .idea/modules.xml
